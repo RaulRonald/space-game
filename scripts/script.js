@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //configurações tela do jogo
 var config = {
     type: Phaser.AUTO,
@@ -28,3 +29,6 @@ function create() {
 function update() {
 
 }
+=======
+console.log("teste")
+>>>>>>> c2da6c2b702514086ab241ece9a7efe7b239a67a
